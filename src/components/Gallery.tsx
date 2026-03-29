@@ -3,10 +3,10 @@ import { motion } from 'framer-motion';
 export default function Gallery() {
   const images = [
     { src: '/gallery/C104709D_IMG_2729.JPG', title: 'CSI ceremony' },
-    { src: '/gallery/B6BB9537_IMG_2710.JPG', title: '1st place winner' },
+    { src: '/gallery/10768.jpg', title: '1st place winner' },
     { src: '/gallery/B4C0B117_IMG_2707.JPG', title: '2nd place winner' },
-    { src: '/gallery/A079DFDA_IMG_2712.jpg', title: 'memories' },
-    { src: '/gallery/50BC920C_IMG_2702.JPG', title: 'PHDs' },
+    { src: '/gallery/10769.jpg', title: 'memories' },
+    { src: '/gallery/10767.jpg', title: 'PHDs' },
     { src: '/gallery/3DFC5EA8_IMG_2732.JPG', title: 'Hacking time' },
   
   ];
