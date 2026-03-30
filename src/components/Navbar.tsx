@@ -29,8 +29,12 @@ export default function Navbar() {
         isScrolled ? 'bg-[#030704]/80 backdrop-blur-md border-b border-[#00ff66]/20 py-4' : 'bg-transparent py-6'
       }`}
     >
-      <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
-        <a href="#home" className="text-2xl font-display font-bold text-white flex items-center gap-2">
+      <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center relative">
+        <a href="#home" className="flex items-center gap-2">
+          <img src="public/gallery/10959.png" alt="CSI CTF Logo" className="md:hidden h-16 w-16 object-contain" />
+          <img src="public/gallery/10959.png" alt="CSI CTF Logo" className="hidden md:block h-20 w-20 object-contain" />
+        </a>
+        <a href="#home" className="text-2xl font-display font-bold text-white flex items-center gap-2 absolute left-1/2 transform -translate-x-1/2">
           <span className="text-[#00ff66] text-glow">CSI</span> CTF
         </a>
 
