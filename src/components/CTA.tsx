@@ -23,7 +23,7 @@ export default function CTA() {
             Join hundreds of students in the ultimate test of cybersecurity skills. Form a team, solve challenges, and claim the glory.
           </p>
           <a
-            href="https://forms.google.com"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe_W2irnWNSBxxhDXWzkAzKh6k21VfJEU6qdVql2icqvbux1g/viewform"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-neon px-10 py-5 text-xl inline-block"

@@ -74,7 +74,7 @@ export default function Hero() {
           </div>
 
           <a
-            href="https://forms.google.com"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe_W2irnWNSBxxhDXWzkAzKh6k21VfJEU6qdVql2icqvbux1g/viewform"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-neon px-8 py-4 text-lg inline-block"

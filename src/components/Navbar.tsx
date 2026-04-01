@@ -50,7 +50,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://forms.google.com"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe_W2irnWNSBxxhDXWzkAzKh6k21VfJEU6qdVql2icqvbux1g/viewform"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-neon px-6 py-2 text-xs"
@@ -83,7 +83,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://forms.google.com"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe_W2irnWNSBxxhDXWzkAzKh6k21VfJEU6qdVql2icqvbux1g/viewform"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-neon px-6 py-2 text-xs text-center inline-block"
